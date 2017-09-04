@@ -2,6 +2,7 @@
 Data Analysis and Prediction of Survivors on the Titanic Dataset
 
 Overview
+
 This study is an exercise to show how to use foundations of Data Science in order to import, study, visualize, 
 and present the raw data in a method that is easy for any user to digest and understand.
 
