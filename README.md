@@ -1,6 +1,7 @@
 # titanic-data-analysis
 ======
-Data Analysis and Prediction of Survivors on the Titanic Dataset
+
+## Data Analysis and Prediction of Survivors on the Titanic Dataset
 
 Overview
 
